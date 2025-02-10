@@ -1,6 +1,7 @@
 ﻿# Calculadora IMC
 
-Esta é uma calculadora do indice de massa corporal mais conhecido como imc, Projeto desenvolvido atraves dos meus estudos da minha graduação de ADS na materia de front-end.
+Esta é uma calculadora do indice de massa corporal mais conhecido como imc. 
+<br>Projeto desenvolvido atraves dos meus estudos da minha graduação de ADS na materia de front-end.<br>
 
 ## Visualize o projeto
 [Calculadora IMC](https://aasm-rasta.github.io/CalculadoraIMC/)
